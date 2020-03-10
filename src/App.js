@@ -1,9 +1,5 @@
 import React from "react";
-
-// Data
 import authors from "./data";
-
-// Components
 import Sidebar from "./Sidebar";
 import AuthorList from "./AuthorList";
 
@@ -21,5 +17,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

@@ -1,6 +1,4 @@
 import React from "react";
-
-// Components
 import AuthorCard from "./AuthorCard";
 
 const AuthorList = props => {
